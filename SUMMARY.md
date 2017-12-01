@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [简介](README.md)
 * [Unity用户手册（2017.2）](md/Unity用户手册（2017.2）/Unity用户手册（2017.2）.md)
   * [文档版本](md/Unity用户手册（2017.2）/文档版本.md)
   * [Unity版本文档切换](md/Unity用户手册（2017.2）/Unity版本文档切换.md)
