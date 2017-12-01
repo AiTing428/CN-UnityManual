@@ -36,7 +36,11 @@ Unity3D是一款跨平台的游戏开发引擎。其手册暂时不支持英文�
 
 ## Unity3D官方手册
 
-- [unity3dManual](https://docs.unity3d.com/Manual/index.html)  
+- [unity3dManual](https://docs.unity3d.com/Manual/index.html) （2017.2） 
+
+## 说明
+
+由于Unity3D更新的频繁性，会先以2017.2这个版本进行翻译工作，之后会根据官方的更新来进行同步更新。
 
 ## 正在翻译文章+作者  
 
