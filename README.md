@@ -46,13 +46,25 @@ Unity3D是一款跨平台的游戏开发引擎。其手册暂时不支持英文�
 
 ## 正在翻译文章+作者  
 
+* Unity用户手册（2017.2）+ huozk
 
 ## 项目翻译目录
 
+* ~~[Overview](https://docs.unity3d.com/Manual/index.html)~~
+
+* [Unity User Manual (2017.2)](https://docs.unity3d.com/Manual/UnityManual.html)
+	* ~~[Documentation versions](https://docs.unity3d.com/Manual/ManualVersions.html)~~
+	* [Switching between Unity versions in the documentation](https://docs.unity3d.com/Manual/SwitchingDocumentationVersions.html)
+	* [Offline documentation](https://docs.unity3d.com/Manual/OfflineDocumentation.html)
+	* [Documentation editorial review](https://docs.unity3d.com/Manual/DocumentationEditorialReview.html)
+ 
 （翻译完成的，请使用删除线将对应划去,像下面这样）
 
 	*  ~~[Overview](https://docs.unity3d.com/Manual/index.html)~~  
 
 ## 贡献者（参与时间排序）
+
+* [huozk](https://github.com/huozk)
+
 
 （Fork之后自行添加到最后）
