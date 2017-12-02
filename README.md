@@ -55,9 +55,9 @@ Unity3D是由Unity Technologies开发的一个多平台的综合型游戏开发�
 
 * [Unity User Manual (2017.2)](https://docs.unity3d.com/Manual/UnityManual.html)
 	* ~~[Documentation versions](https://docs.unity3d.com/Manual/ManualVersions.html)~~
-	* [Switching between Unity versions in the documentation](https://docs.unity3d.com/Manual/SwitchingDocumentationVersions.html)
-	* [Offline documentation](https://docs.unity3d.com/Manual/OfflineDocumentation.html)
-	* [Documentation editorial review](https://docs.unity3d.com/Manual/DocumentationEditorialReview.html)
+	* ~~[Switching between Unity versions in the documentation](https://docs.unity3d.com/Manual/SwitchingDocumentationVersions.html)~~
+	* ~~[Offline documentation](https://docs.unity3d.com/Manual/OfflineDocumentation.html)~~
+	* ~~[Documentation editorial review](https://docs.unity3d.com/Manual/DocumentationEditorialReview.html)~~
  
 （翻译完成的，请使用删除线将对应划去,像下面这样）
 
