@@ -9,7 +9,7 @@
 * [在Unity上工作](md/在Unity上工作/在Unity上工作.md)
   * [基本](md/在Unity上工作/基本/基本.md)
     * [下载并安装Unity](md/在Unity上工作/基本/下载并安装Unity.md)
-      * [脱机部署Unity](md/在Unity上工作/基本/脱机部署Unity.md)
+      * [离线安装Unity](md/在Unity上工作/基本/离线安装Unity.md)
     * [2D或3D项目](md/在Unity上工作/基本/2D或3D项目.md)
     * [入门](md/在Unity上工作/基本/入门.md)
       * [“学习”选项卡](md/在Unity上工作/基本/“学习”选项卡.md)
