@@ -60,7 +60,7 @@ Unity3D是由Unity Technologies开发的一个多平台的综合型游戏开发�
 	* ~~[Offline documentation](https://docs.unity3d.com/Manual/OfflineDocumentation.html)~~
 	* ~~[Documentation editorial review](https://docs.unity3d.com/Manual/DocumentationEditorialReview.html)~~
 * [Working in Unity](https://docs.unity3d.com/Manual/UnityOverview.html)
-	* [Basics](https://docs.unity3d.com/Manual/UnityBasics.html)
+	* ~~[Basics](https://docs.unity3d.com/Manual/UnityBasics.html)~~
 	* [Asset Workflow](https://docs.unity3d.com/Manual/AssetWorkflow.html)
 	* [The Main Windows](https://docs.unity3d.com/Manual/UsingTheEditor.html)
 	* [Creating Gameplay](https://docs.unity3d.com/Manual/CreatingGameplay.html)
