@@ -49,6 +49,7 @@ Unity3D是由Unity Technologies开发的一个多平台的综合型游戏开发�
 ## 正在翻译文章+作者  
 
 * Unity User Manual (2017.2) + huozk
+* The Main Windows + AiTing
 
 ## 项目翻译目录
 
@@ -107,7 +108,8 @@ Unity3D是由Unity Technologies开发的一个多平台的综合型游戏开发�
 
 ## 贡献者（参与时间排序）
 
-* [huozk](https://github.com/huozk)
+* [huozk](https://github.com/huozk)  
+* [AiTing](https://github.com/AiTing428)
 
 
 （Fork之后请自行添加到最后）
