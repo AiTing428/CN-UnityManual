@@ -1,7 +1,7 @@
 # CN-UnityManual
 Unity3D是由Unity Technologies开发的一个多平台的综合型游戏开发工具，是一个全面整合的专业游戏引擎。。其使用手册暂时不支持英文，本项目旨在翻译成中文手册让Unity3D更好的传播。  
 
-## 中文文档地址：[https://noodles1995.gitbooks.io/unity3d/content/](https://noodles1995.gitbooks.io/unity3d/content/)
+## 中文文档地址：[https://noodles1995.gitbooks.io/cn-unity3dmanual/content/](https://noodles1995.gitbooks.io/cn-unity3dmanual/content/)
 
 ## 翻译流程
 
