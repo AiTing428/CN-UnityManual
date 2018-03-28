@@ -1,14 +1,14 @@
 # CN-UnityManual
 Unity3D是由Unity Technologies开发的一个多平台的综合型游戏开发工具，是一个全面整合的专业游戏引擎。。其使用手册暂时不支持英文，本项目旨在翻译成中文手册让Unity3D更好的传播。  
 
-## 中文文档地址：[https://huozk.gitbooks.io/unity3d/content/](https://huozk.gitbooks.io/unity3d/content/)
+## 中文文档地址：[https://noodles1995.gitbooks.io/cn-unity3dmanual/content/](https://noodles1995.gitbooks.io/cn-unity3dmanual/content/)
 
 ## 翻译流程
 
 ### 第一阶段  
 
 将[Unity3D Manual](https://docs.unity3d.com/Manual/index.html)的内容按照现有的目录结构翻译成中文，其中： 
- 
+
 - 文章正文内容均放在`md`目录下，采用`md`格式。
 - 文章中所用到的图片资源放在`images`目录下。
 - 图片按照文档的`主目录-副目录-编号`的格式命名。
@@ -30,9 +30,9 @@ Unity3D是由Unity Technologies开发的一个多平台的综合型游戏开发�
 每一个错别字的修改，病句的修正都是对我们最大的支持。欢迎你Fork并提交Pull Request或者lssue。  
 
 参与方法和步骤：
-  
+
 - 登录 https://github.com
-- Fork git@github.com:huozk/CN-UnityManual.git 或者点仓库地址CN-UnityManaul
+- Fork git@github.com:noodles1995/CN-UnityManual.git 或者点仓库地址CN-UnityManaul
 - 创建您的特性分支 (git checkout -b new-feature)
 - 提交您的改动 (git commit -m 'Added some features or fixed a bug or change a text')
 - 将您的改动记录提交到远程 git 仓库 (git push origin new-feature)
@@ -101,14 +101,14 @@ Unity3D是由Unity Technologies开发的一个多平台的综合型游戏开发�
 	* [Audio Profiler](https://docs.unity3d.com/Manual/AudioProfiler.html)
 	* [Ambisonic Audio](https://docs.unity3d.com/Manual/AmbisonicAudio.html)
 	* [Audio Reference](https://docs.unity3d.com/Manual/Audio.html)
- 
+
 （翻译完成的，请使用删除线将对应划去,像下面这样）
 
 	*  ~~[Overview](https://docs.unity3d.com/Manual/index.html)~~  
 
 ## 贡献者（参与时间排序）
 
-* [huozk](https://github.com/huozk)  
+* [huozk](https://github.com/noodles1995)  
 * [AiTing](https://github.com/AiTing428)
 
 
